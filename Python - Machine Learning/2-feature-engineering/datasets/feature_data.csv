@@ -1,0 +1,10 @@
+First Name,Last Name,Age,Salary,Region,Purchased
+Ahmed,Radwan,35,3000,Asia,No
+Mustafa,Othman,34,12000,Africa,Yes
+Omnia,Nasser,28,7000,Africa,No
+Saddik,Burhan,45,8500,Europe,No
+Mustafa,Jalil,38,45000,Africa,Yes
+Hesham,Naser,,,Asia,Yes
+Abulrahman,,26,6700,Asia,No
+Mohamed,Ouda,33,10500,Asia,Yes
+Mariam,Mazen,18,,Africa,No

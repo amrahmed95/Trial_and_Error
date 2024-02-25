@@ -1,0 +1,24 @@
+Linear Discriminant Analysis or Normal Discriminant Analysis or Discriminant Function Analysis is a dimensionality reduction technique that is commonly used for supervised classification problems. 
+It is used for modelling differences in groups i.e. separating two or more classes
+
+
+What is the difference between K clustering and LDA?
+
+K-means, known for its simplicity and speed, boasted that it could group any collection of documents in a flash. LDA, on the other hand, was confident in its ability to uncover the latent topics hidden within the data using probabilistic generative modeling.
+
+
+Is linear discriminant analysis LDA supervised or unsupervised?
+
+Both PCA and LDA are linear transformation techniques used for dimensionality reduction. However, PCA is unsupervised and LDA is a supervised one with the fact that the dependent variable (DV) is considered makes LDA a supervised model.
+
+
+Is LDA a form of clustering?
+
+LDA does not have a distance metric.
+Unlike typical clustering algorithms like K-Means, it does not assume any distance measure between topics. Instead it infers topics purely based on word counts, based on the bag-of-words representation of documents
+
+
+Can LDA be used for clustering?
+
+Strictly speaking, Latent Dirichlet Allocation (LDA) is not a clustering algorithm. 
+This is because clustering algorithms produce one grouping per item being clustered, whereas LDA produces a distribution of groupings over the items being clustered. Consider k-means, for instance, a popular clustering algorithm.
